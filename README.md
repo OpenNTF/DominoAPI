@@ -1,6 +1,8 @@
 DominoAPI
 =========
 
+[![Join the chat at https://gitter.im/OpenNTF/DominoAPI](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OpenNTF/DominoAPI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 OPENNTF
 
     This project is an OpenNTF project, and is available under the Apache License V2.0.  
